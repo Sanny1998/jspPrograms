@@ -1,0 +1,11 @@
+<html>
+	<head>
+		<title>This is Multiplication numebr form</title>
+	</head>
+	<body><center>
+		<form action="Fibonochy.jsp" method="post">
+		enter the number<input type="text" name="number">
+		submit<input type="submit" name="submit">
+		</center>
+	</body>
+</html>
